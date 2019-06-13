@@ -1,0 +1,6 @@
+framework module MediatorOilCategory {
+  umbrella header "MediatorOilCategory-umbrella.h"
+
+  export *
+  module * { export * }
+}
